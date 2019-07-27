@@ -1,0 +1,17 @@
+{
+  "name": "workshop-project-1",
+  "version": "1.0.0",
+  "description": "Project for Andela Workshop ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Macheza Dzabala",
+  "license": "ISC",
+  "dependencies": {
+    "babel-watch": "^7.0.0",
+    "celebrate": "^10.0.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
